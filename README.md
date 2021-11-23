@@ -32,7 +32,7 @@ This is how it looks like:
 - Compress png - to compress your png file: https://compresspng.com/ 
 - Base64 encode - to encode your file: https://www.base64encode.org/
 - XMedia Recode - to convert your sound files to .ogg https://www.xmedia-recode.de/en/download.php
-- Template: https://github.com/LGLTeam/Android-Mod-Menu
+- Template: https://www.youtube.com/watch?v=_2ui5lt3Scc
 
 # Install Android Studio
 If you have Android Studio installed, you can skip this steps 

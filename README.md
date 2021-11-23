@@ -5,7 +5,7 @@ Support both KittyMemory and MSHook and support Android 4.2.x way up to Android 
 
 This is how it looks like:
 
-![](https://i.imgur.com/W63wVTj.gif)
+![](https://www.youtube.com/watch?v=_2ui5lt3Scc)
 
 **This tutorial is not for newbies/noobs. You need basic knowledge of C++, Java, dalvik opcodes, and also ARM and ARM64 assembly, hex patching and hooking. If you don't have the knowledge, this tutorial will be hard for you, and I won't spoon feeding**
 

@@ -1,4 +1,4 @@
-# Android Mod Menu
+# PROJECT-COM-TELA-FFH4X
 Simple floating mod menu to il2cpp and other native android games with Android/material UI sounds. The mod menu is based on Octowolve/Escanor and Van's template. This template is the most efficient and fastest way to work and to implement menu in the game
 
 Support both KittyMemory and MSHook and support Android 4.2.x way up to Android R preview. Sound effects included. Hook and KittyMemory support both ARMv7 and ARM64
@@ -27,12 +27,8 @@ This is how it looks like:
 
 - Or
 
-- -- Sublime Text: https://www.sublimetext.com/
+- VIDEO DO APK MENU MOD: https://www.youtube.com/watch?v=_2ui5lt3Scc
 
-- Compress png - to compress your png file: https://compresspng.com/ 
-- Base64 encode - to encode your file: https://www.base64encode.org/
-- XMedia Recode - to convert your sound files to .ogg https://www.xmedia-recode.de/en/download.php
-- Template: https://www.youtube.com/watch?v=_2ui5lt3Scc
 
 # Install Android Studio
 If you have Android Studio installed, you can skip this steps 

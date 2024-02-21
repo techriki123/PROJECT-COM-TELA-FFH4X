@@ -5,7 +5,7 @@ Support both KittyMemory and MSHook and support Android 4.2.x way up to Android 
 
 ![](https://i.imgur.com/OIcx2RO.png)
 ![](https://i.imgur.com/PaSVD4f.png)
-- VIDEO DO APK MENU MOD: https://www.youtube.com/watch?v=_2ui5lt3Scc
+- [FFH4X ](https://ffh4x.trending-1.com/) VIDEO DO APK MENU MOD: https://www.youtube.com/watch?v=_2ui5lt3Scc
 **This tutorial is not for newbies/noobs. You need basic knowledge of C++, Java, dalvik opcodes, and also ARM and ARM64 assembly, hex patching and hooking. If you don't have the knowledge, this tutorial will be hard for you, and I won't spoon feeding**
 
 # What will you need?
